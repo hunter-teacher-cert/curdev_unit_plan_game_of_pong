@@ -36,7 +36,6 @@
 ##### How video games affect children’s behavior- the role of parents and adults in the conversation about video games. 
 
 
-
 ---
 
 ## Standards Referenced
@@ -93,8 +92,6 @@
 ##### How do we count points and declare a winner in a game?
 ##### How do we create variables that define parameters for the execution of a program?
 
-
-(list each lesson with main topic(s))
 
 ---
 
