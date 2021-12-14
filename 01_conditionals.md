@@ -1,9 +1,9 @@
-LO: Apply simple conditional, if and if-else blocks, to alter control flow in a program.
+### LO: Apply simple conditional, if and if-else blocks, to alter control flow in a program.
 
-Class Activities:
-Do now- starter code debugging
-Mini lesson- conditionals and triangles
-Student work- Lab 2.3a
+### Class Activities:
+### Do now- starter code debugging
+### Mini lesson- conditionals and triangles
+### Student work- Lab 2.3a
 
 Do now- https://snap.berkeley.edu/snap/snap.html#present:Username=eleite&ProjectName=Donow-%20101921
 Open the code and follow the instructions:
