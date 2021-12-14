@@ -43,8 +43,7 @@
 #### 1- say that if the answer is square, then you are right
 #### 2- ask if you want to keep playing?
 #### 3- if yes, ask another question; if no, say thank you, good bye.
----
-### CHALLENGE: ASK THE USER TO THINK OF A SHAPE, ASK HOW MANY SIDES IT HAS; BASED ON THE NUMBER OF SIDES, SAY THE NAME OF THE SHAPE. EX: HOW MANY SIDES- ANSWER, 3; “YOUR SHAPE IS A TRIANGLE.
+#### CHALLENGE: ASK THE USER TO THINK OF A SHAPE, ASK HOW MANY SIDES IT HAS; BASED ON THE NUMBER OF SIDES, SAY THE NAME OF THE SHAPE. EX: HOW MANY SIDES- ANSWER, 3; “YOUR SHAPE IS A TRIANGLE.
 
 ---
 
