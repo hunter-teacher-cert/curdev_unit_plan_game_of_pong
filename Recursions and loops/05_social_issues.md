@@ -1,5 +1,5 @@
 ### LO: To inquire into the social and ethical issues related to CS.
-### The Big Question- Why do parent think that video games intrinsically bad for children? 
+### The Big Question- Why do parents think that video games are intrinsically bad for children? 
 
 ---
 
