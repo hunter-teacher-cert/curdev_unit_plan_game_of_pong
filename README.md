@@ -96,12 +96,12 @@
 ---
 
 ## Assesments
-#### Formative/Interim  Assessments: 
+### Formative/Interim  Assessments: 
 ##### Nesting loops
 ##### Asking questions and executing the answer
 ##### Drawing different triangles
 ##### The Guessing Game
-#### Summative Assessment: 
+### Summative Assessment: 
 #### Game of Pong
  
 
