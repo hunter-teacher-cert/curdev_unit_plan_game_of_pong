@@ -46,6 +46,15 @@
 #### 5- students names must be included in the heading
 #### 6- submission on time- today- minus 10 points for each day late
 
+### Group Work Protocol
+#### 1- Each student involved in the production of the final product
+#### 2- conversations about the work
+#### 3- minimal disruptions
+#### 4- self-monitoring
+#### 5- productive struggle- facing challenges with enthusiasm
+#### 6- growth mindset- learning from errors
+
+
 
 
 
