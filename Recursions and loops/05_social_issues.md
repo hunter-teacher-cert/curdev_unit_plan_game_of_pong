@@ -1,4 +1,4 @@
-### LO: To inquire into the social and ethical issues related to CS.
+## LO: To inquire into the social and ethical issues related to CS.
 ### The Big Question- Why do parents think that video games are intrinsically bad for children? 
 
 ---
