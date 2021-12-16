@@ -1,4 +1,4 @@
-### LO: To introduce the concept variables to save a value throughout the execution of a program.
+## LO: To introduce the concept variables to save a value throughout the execution of a program.
 ### The Big Question- why are variables essential to coding?
 
 ---
