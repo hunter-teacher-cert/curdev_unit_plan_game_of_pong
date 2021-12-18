@@ -81,7 +81,7 @@
 
 ## Lessons
 #### Total lenght: 2 Weeks
-#### Below is a list of the Learning Objective for each day as the students develop the skills necesssary to create their games:
+#### Below is a list of the Learning Objective for each day as the students developed the skills necesssary to create their games:
 ##### 1. Apply simple conditional, if and if-else blocks, to alter control flow in a program.
 ##### 2. To introduce the ask block with conditional answers.
 ##### 3. To introduce the concept variables to save a value throughout the execution of a program.
