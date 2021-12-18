@@ -82,15 +82,15 @@
 ## Lessons
 #### Total lenght: 2 Weeks
 #### Below is a list of the Learning Objective for each day as the students develop the skills necesssary to create their games:
-##### How do we implement simple repeat and forever loops in Snap?
-##### How do we use loops to reduce redundancy in a program?
-##### How do we use nested loops to solve programming problems?
-##### How do we use variables to track values throughout a program?
-##### How do we ask/answer  questions that determine the execution of the program?
-##### How do we use conditionals that frame execution? 
-##### How do we create an interactive game for two players?
-##### How do we count points and declare a winner in a game?
-##### How do we create variables that define parameters for the execution of a program?
+##### 1. Apply simple conditional, if and if-else blocks, to alter control flow in a program.
+##### 2. To introduce the ask block with conditional answers.
+##### 3. To introduce the concept variables to save a value throughout the execution of a program.
+##### 4. To inquire into the social and ethical issues related to CS
+##### 5. How do we identify and utilize boolean operators?
+##### 6. How to design and explain the basic structure for a Game of Pong.
+##### 7. How do we create an interactive game for two players?
+##### 8. How do we count points and declare a winner in a game?
+##### 9. To complete the code for a Game of Pong.
 
 
 ---
