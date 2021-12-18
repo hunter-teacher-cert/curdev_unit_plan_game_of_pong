@@ -495,7 +495,7 @@ https://docs.google.com/document/d/1365QGXO8AxbY5V7kgGoGwUqYxWg2UD_ERl1nR5A38QE/
 
 ---
 
-### 8. Students were given the whole day to work on the Game of Pong, which should be finished in 3 days
+## 8. Students were given the whole day to work on the Game of Pong, which should be finished in 3 days
 
 ---
 
