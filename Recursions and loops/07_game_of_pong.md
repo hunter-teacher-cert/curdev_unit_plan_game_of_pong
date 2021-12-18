@@ -47,7 +47,7 @@
 ##### 2. Required Checkpoints
 ##### i. Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces
 ##### ii. The ball speeds up when it hits a paddle, and resets to the middle when it hits the left or right edge
-##### iii. Final due date: A point is scored when the ball hits the edge on the opponent's side of the field; the game ends when one player reaches five points; players can start a new game after the game ends.
+##### iii. A point is scored when the ball hits the edge on the opponent's side of the field; the game ends when one player reaches five points; players can start a new game after the game ends.
 
 ---
 
