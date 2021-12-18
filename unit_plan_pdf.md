@@ -92,7 +92,6 @@
 ##### 8. How do we count points and declare a winner in a game?
 ##### 9. To complete the code for a Game of Pong.
 
-
 ---
 
 ## Assesments
@@ -105,6 +104,8 @@
 #### Game of Pong
  
 ---
+
+## All Lessons
 
 ### LO: Apply simple conditional, if and if-else blocks, to alter control flow in a program.
 
@@ -532,6 +533,7 @@ https://docs.google.com/document/d/1365QGXO8AxbY5V7kgGoGwUqYxWg2UD_ERl1nR5A38QE/
 
 ---
 
+## Extra Resources
 #### For this unit the students were required to read, annotate, answer inquiry questions, and produce a claim- driven response about the article below:
 #### THE EFFECT OF VIDEO GAMES ON CHILDREN BEHAVIOR
 #### By Dr. Cindy Gellner
