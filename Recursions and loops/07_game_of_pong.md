@@ -30,7 +30,7 @@
 #### If you finished the planning sheet, please, proceed to the code
 #### Each student is working on one aspect of the game ONLY: ball movement; point counting; paddle movement, etc.
 #### I will make changes to the project guidelines
-#### The Pong Game
+### The Pong Game
 ##### Students will implement a well-written and engineered version of the classic arcade game Pong.
 #### Overview
 ##### In 1972, when video games were still very new and relatively unknown, a new game took the world by storm.
