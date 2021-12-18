@@ -107,7 +107,7 @@
 
 ## All Lessons
 
-### LO: Apply simple conditional, if and if-else blocks, to alter control flow in a program.
+### 1. LO: Apply simple conditional, if and if-else blocks, to alter control flow in a program.
 
 ---
 
@@ -157,7 +157,7 @@
 
 ---
 
-## LO: To introduce the ask block with conditional answers.
+## 2. LO: To introduce the ask block with conditional answers.
 
 ---
 
@@ -209,11 +209,11 @@
 ### Wrap Up- 
 #### Make sure to save your work
 #### AND
-####Log off
+#### Log off
 
 ---
 
-## LO: To introduce the concept variables to save a value throughout the execution of a program.
+## 3. LO: To introduce the concept variables to save a value throughout the execution of a program.
 ---
 
 #### Class Activities:
@@ -254,7 +254,7 @@
 
 ---
 
-## LO: To introduce the concept variables to save a value throughout the execution of a program.
+## 4. LO: To introduce the concept variables to save a value throughout the execution of a program.
 ### The Big Question- why are variables essential to coding?
 
 ---
@@ -313,7 +313,7 @@
 
 ---
 
-## LO: To inquire into the social and ethical issues related to CS.
+## 5. LO: To inquire into the social and ethical issues related to CS.
 ### The Big Question- Why do parents think that video games are intrinsically bad for children? 
 
 ---
@@ -370,7 +370,7 @@ https://docs.google.com/document/d/1365QGXO8AxbY5V7kgGoGwUqYxWg2UD_ERl1nR5A38QE/
 
 ---
 
-## LO: How do we identify and utilize boolean operators?
+## 6. LO: How do we identify and utilize boolean operators?
 
 ---
 
@@ -421,7 +421,7 @@ https://docs.google.com/document/d/1365QGXO8AxbY5V7kgGoGwUqYxWg2UD_ERl1nR5A38QE/
 
 ---
 
-## LO: How to design and explain the basic structure for a Game of Pong.
+## 7. LO: How to design and explain the basic structure for a Game of Pong.
 
 ---
 
@@ -495,11 +495,11 @@ https://docs.google.com/document/d/1365QGXO8AxbY5V7kgGoGwUqYxWg2UD_ERl1nR5A38QE/
 
 ---
 
-### Students were given the whole day to work on the Game of Pong, which should be finished in 3 days
+### 8. Students were given the whole day to work on the Game of Pong, which should be finished in 3 days
 
 ---
 
-## LO: To complete the code for a Game of Pong.
+## 9. LO: To complete the code for a Game of Pong.
 
 ---
 
